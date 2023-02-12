@@ -1,0 +1,8 @@
+{
+  "name": "bbmc-devtools",
+  "version": "1.0.0",
+  "description": "This plugin help making BBMC plugins easier.",
+  "main": "src/Main.js",
+  "author": "Kanade",
+  "license": "MIT"
+}
